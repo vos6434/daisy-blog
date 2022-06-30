@@ -81,17 +81,17 @@ Successful PRs are greatly appreciated! Please follow the code guidelines at [Gi
 
 # Socials
 
-Please support our development by pledging on our Patreon and get a cape as a reward!
-https://www.patreon.com/team_galacticraft
+Please support our development by pledging on our Patreonand get a cape as a reward!
+[patreon.com/team_galacticraft](https://www.patreon.com/team_galacticraft)
 
 Join our Discord to follow the development:
-https://discord.gg/n3QqhMYyFK
+[discord.gg/n3QqhMYyFK](https://discord.gg/n3QqhMYyFK)
 
 Join the Official Community Discord for mod support:
-http://discord.galacticraftcentral.com/
+[discord.galacticraftcentral.com](http://discord.galacticraftcentral.com/)
 
 Star our Github repository, let's beat the old repository!
-https://github.com/TeamGalacticraft/Galacticraft
+[github.com/TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft)
 
 Follow us on Twitter:
-https://twitter.com/GalacticraftDev
+[twitter.com/GalacticraftDev](https://twitter.com/GalacticraftDev)
