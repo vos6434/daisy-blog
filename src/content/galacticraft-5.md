@@ -1,6 +1,6 @@
 ---
 title: Galacticraft 5
-date: 2022-06-30
+date: 2022-07-01
 author: It's been a while
 desc: What's been happening all this time?
 img: https://i.imgur.com/vjQQCBe.png
