@@ -16,7 +16,7 @@ This project first began in March 2019 as a complete rewrite of Galacticraft 4. 
 
 In November 2020, Micdoodle decided to make this rewrite the next Galacticraft, and the rewrite became Galacticraft 5. It's been in progress ever since version 1.14 of Minecraft!
 
-
+---
 
 # Development Status
 
@@ -25,3 +25,11 @@ Galacticraft 5 is currently in development for Minecraft 1.18. We plan to immedi
 Galacticraft 5 is focused on enhancing and updating existing features with new content and textures, some of them can be seen in this dev blog.
 
 We are planning to release an alpha version of Galacticraft 5, which will run exclusively on the Fabric mod loader. In the beta release of the mod, it will use the [Architectury API](https://github.com/architectury) which allows us to develop for both Fabric and Forge using the same shared codebase.
+
+---
+
+# Music
+
+Music is a big part of the Galacticraft vibe, working on it leads us to newer soundtracks designed for Venus, Mars, the Asteroids and the Space station.
+
+These are mainly composed with the help of electronic instruments, but also embellished using acoustic instruments so as to modernize the sound. Besides, we wanted to preserve but remaster two soundtracks : spacerace and orbit, resulting in a softer tone and more spatialization.
