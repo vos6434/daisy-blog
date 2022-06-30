@@ -10,7 +10,9 @@ imgHeight: 500
 [//]: # (	BELOW IS THE GALACTICRAFT LOGO	)
 ![Galacticraft Logo](https://i.imgur.com/io5EaQo.png)
 
-Welcome to the first Galacticraft dev blog. We know it has been a while since our last announcement so lets start this month with a bang! 
+Welcome to the first Galacticraft dev blog.
+
+We know it has been a while since our last announcement so lets start this month with a bang! 
 
 ---
 
