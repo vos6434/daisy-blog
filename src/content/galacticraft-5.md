@@ -83,3 +83,15 @@ Successful PRs are greatly appreciated! Please follow the code guidelines at [Gi
 
 Please support our development by pledging on our Patreon and get a cape as a reward!
 https://www.patreon.com/team_galacticraft
+
+Join our Discord to follow the development:
+https://discord.gg/n3QqhMYyFK
+
+Join the Official Community Discord for mod support:
+http://discord.galacticraftcentral.com/
+
+Star our Github repository, let's beat the old repository!
+https://github.com/TeamGalacticraft/Galacticraft
+
+Follow us on Twitter:
+https://twitter.com/GalacticraftDev
