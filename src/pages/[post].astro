@@ -21,7 +21,7 @@ export async function getStaticPaths({ rss }) {
 const { post: { Content }, post } = Astro.props;
 ---
 <head>
-<title>Galacticraft</title>
+<meta content="Galacticraft" property="og:site_name" />
 </head>
 <Blog title={post.title} desc={post.desc} img={post.img ? post.img : null}>
 	<div class="flex justify-center">
