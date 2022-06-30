@@ -8,7 +8,7 @@ imgWidth: 500
 imgHeight: 500
 ---
 [//]: # (	BELOW IS THE GALACTICRAFT LOGO	)
-
+![Galacticraft Logo](https://i.imgur.com/io5EaQo.png)
 ## Development History
 This project first began in March 2019 as a complete rewrite of Galacticraft 4. We acquired Micdoodle’s permission to create a rewrite of the mod to run on the new mod loader at the time called Fabric, and called the mod "Galacticraft: Rewoven". In November 2020, Micdoodle decided to make this rewrite the next Galacticraft, and the rewrite became Galacticraft 5. It's been in progress ever since version 1.14 of Minecraft!
 
@@ -59,15 +59,4 @@ For every profession mentioned besides programming, please apply in [#applicatio
 To help develop the mod, there is no need to apply. Simply ask a team member what needs to be done, pull the code from GitHub, add the requested feature or fix the bug, and make a pull request. 
 Successful PRs are greatly appreciated! Please follow the code guidelines at https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md.
 
-## Social
-Please support our development by pledging on our Patreon and get a cape as a reward!<br>https://www.patreon.com/team_galacticraft<br>
-<br>
-Join our Discord to follow the development:<br>https://discord.gg/n3QqhMYyFK<br>
-<br>
-Join the Official Community Discord for mod support:<br>http://discord.galacticraftcentral.com<br>
-<br>
-Star our Github repository, let's beat the old repository!<br>https://github.com/TeamGalacticraft/Galacticraft<br>
-<br>
-Follow us on Twitter:<br>https://twitter.com/GalacticraftDev<br>
-<br>
-Watch developments streams on our Twitch:<br>https://twitch.tv/GalacticraftDev<br>
+
