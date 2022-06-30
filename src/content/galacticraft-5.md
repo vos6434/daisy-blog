@@ -71,4 +71,4 @@ Security![Security tab](https://i.imgur.com/jRE6vmh.png)
 
 The moon has better generation and with it new blocks, biomes and structures.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mo2dhXz" data-context="false" ><a href="//imgur.com/a/Mo2dhXz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mo2dhXz" data-context="false" width="10" ><a href="//imgur.com/a/Mo2dhXz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
