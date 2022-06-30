@@ -23,12 +23,6 @@ const { post: { Content }, post } = Astro.props;
 <Blog title={post.title} desc={post.desc} img={post.img ? post.img : null}>
 	<div class="flex justify-center">
 		<div class="py-6 prose lg:prose-lg">
-			{post.img && post.imgWidth && post.imgHeight ?
-				: post.img &&
-				<figure class="flex justify-center">
-					<img src={post.img} alt={post.title} class="rounded bg-base-200" />
-				</figure>
-			}
 			<h1>{post.title}</h1>
 			<div class="flex gap-3">
 				<span class="badge badge-ghost">
