@@ -20,6 +20,9 @@ export async function getStaticPaths({ rss }) {
 // Destructure to get both `Astro.props.post` and `Astro.props.post.Content`
 const { post: { Content }, post } = Astro.props;
 ---
+<head>
+<title>Galacticraft</title>
+</head>
 <Blog title={post.title} desc={post.desc} img={post.img ? post.img : null}>
 	<div class="flex justify-center">
 		<div class="py-6 prose lg:prose-lg">
