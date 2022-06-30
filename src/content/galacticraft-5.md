@@ -29,31 +29,28 @@ WE NEED TO REPLACE THE VIDEO WITH OUT OWN HOST!!!!!
 
 ## Machine GUIs
 The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
-
-SCREENSHOTS NEED TO BE ADDED!!!!!!
 **Redstone**
-![Redstone configuration tab](https://i.imgur.com/lX5KWFE.png)
+![Redstone configuration tab](https://i.imgur.com/7TCRPFr.png)
 
 **Configuration**
-![Machine sides configuration tab](https://i.imgur.com/lX5KWFE.png)
+![Machine sides configuration tab](https://i.imgur.com/WAwGBPx.png)
 
 **Statistics**
-![Statistics tab](https://i.imgur.com/lX5KWFE.png)
+![Statistics tab](https://i.imgur.com/wgClvRn.png)
 
 **Security**
-![Security tab](https://i.imgur.com/lX5KWFE.png)
+![Security tab](https://i.imgur.com/jRE6vmh.png)
 
 ## Moon
 The moon has better generation and with it new blocks, biomes and structures.
-
 **Highlands biome**
-![Highlands biome](https://i.imgur.com/lX5KWFE.png)
+![Highlands biome](https://i.imgur.com/WxEREif.png)
 
 **Mare biome**
-![Mare biome](https://i.imgur.com/lX5KWFE.png)
+![Mare biome](https://i.imgur.com/WdAGVBA.png)
 
 **Highlands edge biome**
-![Highlands edge biome](https://i.imgur.com/lX5KWFE.png)
+![Highlands edge biome](https://i.imgur.com/TYfHV21.png)
 
 ## Applications
 If you are good at building, texturing or modeling we can use your help!
