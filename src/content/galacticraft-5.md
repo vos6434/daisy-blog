@@ -70,7 +70,3 @@ Security![Security tab](https://i.imgur.com/jRE6vmh.png)
 # Moon
 
 The moon has better generation and with it new blocks, biomes and structures.
-
-```
-![Some Title](https://i.imgur.com/jRE6vmh.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-```
