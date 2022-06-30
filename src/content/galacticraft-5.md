@@ -90,7 +90,7 @@ Join our Discord to follow the development:
 Join the Official Community Discord for mod support:
 [discord.galacticraftcentral.com](http://discord.galacticraftcentral.com/)
 
-Star our Github repository, let's beat the old repository!
+Star our GitHub repository, let's beat the old repository!
 [github.com/TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft)
 
 Follow us on Twitter:
