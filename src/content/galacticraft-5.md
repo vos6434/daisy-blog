@@ -87,7 +87,7 @@ Please support our development by pledging on our Patreon and get a cape as a re
 Join our Discord to follow the development:
 [discord.gg/n3QqhMYyFK](https://discord.gg/n3QqhMYyFK)
 
-Join the Official Community Discord for mod support:
+Join the Official Community Discord for mod support: 
 [discord.galacticraftcentral.com](http://discord.galacticraftcentral.com/)
 
 Star our GitHub repository, let's beat the old repository!
