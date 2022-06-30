@@ -18,8 +18,11 @@ We are planning to release an alpha version of Galacticraft 5, which will run ex
 
 # New machine GUI
 The new GUI is inspired by BuildCraft and Thermal Expansion and with it we have added redstone control, side configuration, statistics and security.
-![Redstone configuration tab](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-MY13AwpT-ljX0vQfrhaB38XRC7PVpywbSDrG9xTN0ND6bL49PLLT1Wk_47f1TQfw6YZiLNMPbsksWyizeag6b_8JcnMg1luwySwWk=s512)
+![Redstone configuration tab](https://i.imgur.com/lX5KWFE.png)
 
 # Music
 Music is a big part of the Galacticraft vibe, working on it leads us to newer soundtracks designed for Venus, Mars, the Asteroids and the Space station. These are mainly composed with the help of electronic instruments, but also embellished using acoustic instruments so as to modernize the sound. Besides, we wanted to preserve but remaster two soundtracks : spacerace and orbit, resulting in a softer tone and more spatialization.
-<iframe src="https://drive.google.com/file/d/11oySIiKAbZO3g_zcM96AEI-rVa-580YQ/preview" width="640" height="480" allow="autoplay"></iframe>
+<video width="400" controls>
+  <source src="https://www.dropbox.com/s/6amffq9hmhs7h4b/Moon.mp4?dl=1" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
