@@ -3,9 +3,9 @@ title: First Devblog Test
 date: 2022-06-30
 author: It's been a long time
 desc: This is a test post for Galacticraft.
-img: https://pbs.twimg.com/media/EmVGLKOXUAAx6AG?format=jpg&name=large
-imgWidth: 1
-imgHeight: 1
+img: https://i.imgur.com/vjQQCBe.png
+imgWidth: 500
+imgHeight: 500
 ---
 ![Galacticraft Logo](https://i.imgur.com/io5EaQo.png)
 ## Development History
