@@ -76,3 +76,10 @@ For every profession mentioned besides programming, please apply in [#applicatio
 To help develop the mod, there is no need to apply. Simply ask a team member what needs to be done, pull the code from [GitHub](https://github.com/TeamGalacticraft/Galacticraft), add the requested feature or fix the bug, and make a pull request.
 
 Successful PRs are greatly appreciated! Please follow the code guidelines at [GitHub](https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md).
+
+---
+
+# Socials
+
+Please support our development by pledging on our Patreon and get a cape as a reward!
+https://www.patreon.com/team_galacticraft
