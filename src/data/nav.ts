@@ -1,10 +1,10 @@
 export const nav = [
   {
-    title: 'About',
-    slug: '/about',
+    title: 'News',
+    slug: 'https://62bd890dde6f9a0008828da5--gentle-dodol-d2ed0d.netlify.app/',
   },
   {
-    title: 'Contact',
-    slug: '/contact',
+    title: 'Forum',
+    slug: 'https://forum.micdoodle8.com/index.php',
   },
 ]
