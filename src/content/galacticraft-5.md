@@ -81,7 +81,7 @@ Successful PRs are greatly appreciated! Please follow the code guidelines at [Gi
 
 # Socials
 
-Please support our development by pledging on our Patreonand get a cape as a reward!
+Please support our development by pledging on our Patreon and get a cape as a reward!
 [patreon.com/team_galacticraft](https://www.patreon.com/team_galacticraft)
 
 Join our Discord to follow the development:
