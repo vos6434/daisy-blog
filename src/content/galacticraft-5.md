@@ -10,6 +10,10 @@ imgHeight: 500
 [//]: # (	BELOW IS THE GALACTICRAFT LOGO	)
 ![Galacticraft Logo](https://i.imgur.com/io5EaQo.png)
 
+Welcome to the first Galacticraft dev blog. We know it has been a while since our last announcement so lets start this month with a bang! 
+
+---
+
 # Development History
 
 This project first began in March 2019 as a complete rewrite of Galacticraft 4. We acquired Micdoodle’s permission to create a rewrite of the mod to run on the new mod loader at the time called Fabric, and called the mod "Galacticraft: Rewoven".
@@ -33,3 +37,31 @@ We are planning to release an alpha version of Galacticraft 5, which will run ex
 Music is a big part of the Galacticraft vibe, working on it leads us to newer soundtracks designed for Venus, Mars, the Asteroids and the Space station.
 
 These are mainly composed with the help of electronic instruments, but also embellished using acoustic instruments so as to modernize the sound. Besides, we wanted to preserve but remaster two soundtracks : spacerace and orbit, resulting in a softer tone and more spatialization.
+
+<video width="400" controls>
+  <source src="https://www.dropbox.com/s/6amffq9hmhs7h4b/Moon.mp4?dl=1" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+Plus, a good atmosphere also means adding Sound effects to events, mobs, tools and mechanisms. It will apply to rocket types, space mobs, caves, crashed probes, hydraulic platforms, chest dungeons, tools and more.
+
+---
+
+# Machine GUIs
+
+The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
+
+> **Redstone**
+
+![Redstone tab](https://i.imgur.com/7TCRPFr.png)
+
+Configuration
+
+
+
+Statistics
+
+
+
+Security
+
