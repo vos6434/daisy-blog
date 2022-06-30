@@ -95,5 +95,5 @@ Join the Official Community Discord for mod support:<br>
 Star our GitHub repository, let's beat the old repository!
 [github.com/TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft)
 
-Follow us on Twitter:
+Follow us on Twitter:<br>
 [twitter.com/GalacticraftDev](https://twitter.com/GalacticraftDev)
