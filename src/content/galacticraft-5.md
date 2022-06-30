@@ -71,6 +71,6 @@ Join the Official Community Discord for mod support: <br> http://discord.galacti
 <br>
 Star our Github repository, let's beat the old repository! <br> https://github.com/TeamGalacticraft/Galacticraft <br>
 <br>
-Follow us on Twitter: <br> https://twitter.com/GalacticraftDev
+Follow us on Twitter: <br> https://twitter.com/GalacticraftDev <br>
 <br>
 Watch developments streams on our Twitch: <br> https://twitch.tv/GalacticraftDev <br>
