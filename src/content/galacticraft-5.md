@@ -51,9 +51,9 @@ Plus, a good atmosphere also means adding Sound effects to events, mobs, tools a
 
 The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
 
-> **Redstone**
-
-![Redstone tab](https://i.imgur.com/7TCRPFr.png)
+> Redstone
+>
+> ![Redstone tab](https://i.imgur.com/7TCRPFr.png)
 
 Configuration
 
