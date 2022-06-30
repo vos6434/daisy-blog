@@ -61,29 +61,7 @@ The moon has better generation and with it new blocks, biomes and structures.
 
 # Applications
 
-If you are good at building, texturing or modeling we can use your help!
 
-If you know another language besides English, we will gladly accept translations as well.
-
-For every profession mentioned besides programming, please apply in [#applications](https://discord.com/channels/775251052517523467/803336019687768124), mentioning what role you wish to have, as well as your past work.
-
-To help develop the mod, there is no need to apply. Simply ask a team member what needs to be done, pull the code from [GitHub](https://github.com/TeamGalacticraft/Galacticraft), add the requested feature or fix the bug, and make a pull request.
-
-Successful PRs are greatly appreciated! Please follow the code guidelines at https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md.
 
 # Socials
 
-Please support our development by pledging on our Patreon and get a cape as a reward!
-https://www.patreon.com/team_galacticraft
-
-Join our Discord to follow the development:
-https://discord.gg/n3QqhMYyFK
-
-Join the Official Community Discord for mod support:
-http://discord.galacticraftcentral.com/
-
-Star our Github repository, let's beat the old repository!
-https://github.com/TeamGalacticraft/Galacticraft
-
-Follow us on Twitter:
-https://twitter.com/GalacticraftDev
