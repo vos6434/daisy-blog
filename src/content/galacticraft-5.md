@@ -26,7 +26,7 @@ In November 2020, Micdoodle decided to make this rewrite the next Galacticraft, 
 
 # Development Status
 
-Galacticraft 5 is currently in development for Minecraft 1.18. We plan to immediately update to the latest Minecraft versions as they release, which minimizes the amount of work that would be required if we stayed on an earlier version and then tried porting everything to the newest version.
+Galacticraft 5 is currently in development for Minecraft 1.19. We plan to immediately update to the latest Minecraft versions as they release, which minimizes the amount of work that would be required if we stayed on an earlier version and then tried porting everything to the newest version.
 
 Galacticraft 5 is focused on enhancing and updating existing features with new content and textures, some of them can be seen in this dev blog.
 
