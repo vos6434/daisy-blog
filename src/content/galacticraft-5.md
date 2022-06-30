@@ -51,18 +51,22 @@ Plus, a good atmosphere also means adding Sound effects to events, mobs, tools a
 
 The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
 
-**Redstone**![](https://i.imgur.com/7TCRPFr.png)
+****Redstone****![Redstone Tab](https://i.imgur.com/7TCRPFr.png)
 
-**Configuration**![](https://i.imgur.com/WAwGBPx.png)
-
-
+Configuration![Configuration Tab](https://i.imgur.com/WAwGBPx.png)
 
 
 
-**Statistics**![](https://i.imgur.com/wgClvRn.png)
+
+
+Statistics![Statistics tab](https://i.imgur.com/wgClvRn.png)
 
 
 
-**Security**![](https://i.imgur.com/jRE6vmh.png)
+Security![Security tab](https://i.imgur.com/jRE6vmh.png)
 
 ---
+
+# Moon
+
+The moon has better generation and with it new blocks, biomes and structures.
