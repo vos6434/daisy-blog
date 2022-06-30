@@ -53,15 +53,11 @@ The new GUIs are inspired by BuildCraft and Thermal Expansion.
 
 We have added redstone control, side configuration, statistics and security.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/r0KuFN6" data-context="false" width="10" ><a href="//imgur.com/a/r0KuFN6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 ---
 
 # Moon
 
 The moon has better generation and with it new blocks, biomes and structures.
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/0ZgSjNY" data-context="false" width="10" ><a href="//imgur.com/a/0ZgSjNY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Applications
 
@@ -74,3 +70,20 @@ For every profession mentioned besides programming, please apply in [#applicatio
 To help develop the mod, there is no need to apply. Simply ask a team member what needs to be done, pull the code from [GitHub](https://github.com/TeamGalacticraft/Galacticraft), add the requested feature or fix the bug, and make a pull request.
 
 Successful PRs are greatly appreciated! Please follow the code guidelines at https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md.
+
+# Socials
+
+Please support our development by pledging on our Patreon and get a cape as a reward!
+https://www.patreon.com/team_galacticraft
+
+Join our Discord to follow the development:
+https://discord.gg/n3QqhMYyFK
+
+Join the Official Community Discord for mod support:
+http://discord.galacticraftcentral.com/
+
+Star our Github repository, let's beat the old repository!
+https://github.com/TeamGalacticraft/Galacticraft
+
+Follow us on Twitter:
+https://twitter.com/GalacticraftDev
