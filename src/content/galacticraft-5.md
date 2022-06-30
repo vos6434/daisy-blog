@@ -63,9 +63,9 @@ To help develop the mod, there is no need to apply. Simply ask a team member wha
 Successful PRs are greatly appreciated! Please follow the code guidelines at https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md.
 
 ## Social
-Please support our development by pledging on our Patreon and get a cape as a reward! https://www.patreon.com/team_galacticraft \
-Join our Discord to follow the development: https://discord.gg/n3QqhMYyFK \
-Join the Official Community Discord for mod support: http://discord.galacticraftcentral.com \
-Star our Github repository, let's beat the old repository! https://github.com/TeamGalacticraft/Galacticraft \
-Watch developments streams on our Twitch: https://twitch.tv/GalacticraftDev \
-Follow us on Twitter: https://twitter.com/GalacticraftDev \
+Please support our development by pledging on our Patreon and get a cape as a reward!\ https://www.patreon.com/team_galacticraft \
+Join our Discord to follow the development: \ https://discord.gg/n3QqhMYyFK \
+Join the Official Community Discord for mod support: \ http://discord.galacticraftcentral.com \
+Star our Github repository, let's beat the old repository! \ https://github.com/TeamGalacticraft/Galacticraft \
+Watch developments streams on our Twitch: \ https://twitch.tv/GalacticraftDev \
+Follow us on Twitter: \ https://twitter.com/GalacticraftDev
