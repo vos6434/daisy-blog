@@ -51,19 +51,7 @@ Plus, a good atmosphere also means adding Sound effects to events, mobs, tools a
 
 The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
 
-****Redstone****![Redstone Tab](https://i.imgur.com/7TCRPFr.png)
-
-Configuration![Configuration Tab](https://i.imgur.com/WAwGBPx.png)
-
-
-
-
-
-Statistics![Statistics tab](https://i.imgur.com/wgClvRn.png)
-
-
-
-Security![Security tab](https://i.imgur.com/jRE6vmh.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/r0KuFN6" data-context="false" width="10" ><a href="//imgur.com/a/r0KuFN6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
 
@@ -71,8 +59,5 @@ Security![Security tab](https://i.imgur.com/jRE6vmh.png)
 
 The moon has better generation and with it new blocks, biomes and structures.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mo2dhXz" data-context="false" width="10" ><a href="//imgur.com/a/Mo2dhXz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/0ZgSjNY" data-context="false" width="10" ><a href="//imgur.com/a/0ZgSjNY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/195961754@N02/albums/72177720300216150" title="Galacticraft Machine GUIs"><img src="https://live.staticflickr.com/65535/52185344810_cbe18e7da5_z.jpg" width="640" height="480" alt="Galacticraft Machine GUIs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
