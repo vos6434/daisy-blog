@@ -8,7 +8,7 @@ imgWidth: 500
 imgHeight: 500
 ---
 [//]: # (	BELOW IS THE GALACTICRAFT LOGO	)
-![Galacticraft Logo](https://i.imgur.com/io5EaQo.png)
+
 ## Development History
 This project first began in March 2019 as a complete rewrite of Galacticraft 4. We acquired Micdoodle’s permission to create a rewrite of the mod to run on the new mod loader at the time called Fabric, and called the mod "Galacticraft: Rewoven". In November 2020, Micdoodle decided to make this rewrite the next Galacticraft, and the rewrite became Galacticraft 5. It's been in progress ever since version 1.14 of Minecraft!
 
