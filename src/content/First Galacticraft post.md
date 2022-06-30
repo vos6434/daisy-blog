@@ -3,13 +3,10 @@ title: First Devblog Test
 date: 2022-06-30
 desc: This is a test post for Galacticraft.
 img: https://pbs.twimg.com/media/EmVGLKOXUAAx6AG?format=jpg&name=large
-imgWidth: 800
-imgHeight: 500
+imgWidth: 0
+imgHeight: 0
 ---
----
-title: Development History
-author: vos6434
----
+# Development History
 This project first began in March 2019 as a complete rewrite of Galacticraft 4. We acquired Micdoodle’s permission to create a rewrite of the mod to run on the new mod loader at the time called Fabric, and called the mod "Galacticraft: Rewoven". In November 2020, Micdoodle decided to make this rewrite the next Galacticraft, and the rewrite became Galacticraft 5. It's been in progress ever since version 1.14 of Minecraft!
 # Development Status
 Galacticraft 5 is currently in development for Minecraft 1.18. We plan to immediately update to the latest Minecraft versions as they release, which minimizes the amount of work that would be required if we stayed on an earlier version and then tried porting everything to the newest version.
