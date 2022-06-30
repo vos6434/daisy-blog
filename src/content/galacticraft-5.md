@@ -28,7 +28,7 @@ WE NEED TO REPLACE THE VIDEO WITH OUT OWN HOST!!!!!
 </video>
 
 ## Machine GUIs
-The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.
+The new GUIs are inspired by BuildCraft and Thermal Expansion. We have added redstone control, side configuration, statistics and security.<br>
 **Redstone**
 ![Redstone configuration tab](https://i.imgur.com/7TCRPFr.png)
 
@@ -60,14 +60,14 @@ To help develop the mod, there is no need to apply. Simply ask a team member wha
 Successful PRs are greatly appreciated! Please follow the code guidelines at https://github.com/TeamGalacticraft/Galacticraft/blob/main/.github/CONTRIBUTING.md.
 
 ## Social
-Please support our development by pledging on our Patreon and get a cape as a reward!<br> https://www.patreon.com/team_galacticraft <br>
+Please support our development by pledging on our Patreon and get a cape as a reward!<br>https://www.patreon.com/team_galacticraft<br>
 <br>
-Join our Discord to follow the development: <br> https://discord.gg/n3QqhMYyFK <br>
+Join our Discord to follow the development:<br>https://discord.gg/n3QqhMYyFK<br>
 <br>
-Join the Official Community Discord for mod support: <br> http://discord.galacticraftcentral.com <br>
+Join the Official Community Discord for mod support:<br>http://discord.galacticraftcentral.com<br>
 <br>
-Star our Github repository, let's beat the old repository! <br> https://github.com/TeamGalacticraft/Galacticraft <br>
+Star our Github repository, let's beat the old repository!<br>https://github.com/TeamGalacticraft/Galacticraft<br>
 <br>
-Follow us on Twitter: <br> https://twitter.com/GalacticraftDev <br>
+Follow us on Twitter:<br>https://twitter.com/GalacticraftDev<br>
 <br>
-Watch developments streams on our Twitch: <br> https://twitch.tv/GalacticraftDev <br>
+Watch developments streams on our Twitch:<br>https://twitch.tv/GalacticraftDev<br>
