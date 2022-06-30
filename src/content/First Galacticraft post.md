@@ -27,3 +27,7 @@ Music is a big part of the Galacticraft vibe, working on it leads us to newer so
   <source src="https://www.dropbox.com/s/6amffq9hmhs7h4b/Moon.mp4?dl=1" type="video/mp4">
   Your browser does not support HTML video.
 </video>
+
+## Tweet
+below is a Tweet
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Coming soon: Revamped moon terrain, including more crater variation (WIP, 1.15.2+) <a href="https://t.co/xHBDFVXd3P">pic.twitter.com/xHBDFVXd3P</a></p>&mdash; Mitch Petrie (@micdoodle8) <a href="https
