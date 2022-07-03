@@ -1,7 +1,7 @@
 export const nav = [
   {
     title: 'News',
-    slug: 'https://galacticraft-test.netlify.app',
+    slug: 'https://blog.galacticraft.net',
   },
   {
     title: 'Discord',
