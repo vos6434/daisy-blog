@@ -5,7 +5,7 @@ export const nav = [
   },
   {
     title: 'Discord',
-    slug: 'https://discord.gg/n3QqhMYyFK',
+    slug: 'https://dev.discord.galacticraft.net',
   },
   {
     title: 'Forum',
