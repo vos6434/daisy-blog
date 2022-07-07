@@ -52,6 +52,8 @@ The new GUIs are inspired by BuildCraft and Thermal Expansion.
 
 We have added redstone control, side configuration, statistics and security.
 
+(GUIs are still WIP)
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/r0KuFN6" data-context="false" width="20" ><a href="//imgur.com/a/r0KuFN6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---
@@ -59,6 +61,8 @@ We have added redstone control, side configuration, statistics and security.
 # Moon
 
 The moon has better generation and with it new blocks, biomes and structures.
+
+(Moon generation not final)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0ZgSjNY" data-context="false" width="20" ><a href="//imgur.com/a/0ZgSjNY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
