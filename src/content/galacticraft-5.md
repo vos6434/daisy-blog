@@ -40,7 +40,7 @@ Music is a big part of the Galacticraft vibe, working on it leads us to newer so
 
 These are mainly composed with the help of electronic instruments, but also embellished using acoustic instruments so as to modernize the sound. Besides, we wanted to preserve but remaster two soundtracks : spacerace and orbit, resulting in a softer tone and more spatialization.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZEKB22RYies" title="Moon Music Showcase" frameborder="1" allow="accelerometer; encrypted-media; gyroscope" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gg1FVRyKTB8?rel=0&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Plus, a good atmosphere also means adding Sound effects to events, mobs, tools and mechanisms. It will apply to rocket types, space mobs, caves, crashed probes, hydraulic platforms, chest dungeons, tools and more.
 
