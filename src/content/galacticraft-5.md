@@ -41,7 +41,7 @@ Music is a big part of the Galacticraft vibe, working on it leads us to newer so
 These are mainly composed with the help of electronic instruments, but also embellished using acoustic instruments so as to modernize the sound. Besides, we wanted to preserve but remaster two soundtracks : spacerace and orbit, resulting in a softer tone and more spatialization.
 
 <video width="400" controls>
-  <source src="https://github.com/vos6434/galacticraft-test-blog/raw/master/public/moon.mp4" type="video/mp4">
+  <source src="../public/moon.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
 
