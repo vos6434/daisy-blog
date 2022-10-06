@@ -24,7 +24,7 @@ const { post: { Content }, post } = Astro.props;
 <meta content="Galacticraft" property="og:site_name" />
 </head>
 <Blog title={post.title} desc={post.desc} img={post.img ? post.img : null}>
-	<div class="flex justify-center">
+	<div class="overflow-x-hidden">
 		<div class="py-6 prose lg:prose-lg">
 			<h1>{post.title}</h1>
 			<div class="flex gap-3">
